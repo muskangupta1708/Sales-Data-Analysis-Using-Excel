@@ -7,25 +7,39 @@ ________________________________________
 Key Metrics
 
 •	Total Orders: 1,000
+
 •	Total Revenue: ₹35.21 Lakhs
+
 •	Average Customer Spend: ₹3,520.98
+
 •	Order-to-Delivery Time: 5–53 days
+
 ________________________________________
 Tools & Techniques
 
 •	Microsoft Excel
+
 •	Pivot Tables & Pivot Charts
+
 •	Slicers & Timelines
+
 •	Calculated Fields & KPI Cards
+
 •	Conditional Formatting
+
 ________________________________________
 Key Insights
 
 •	Sales peak during festive and occasion-driven periods
+
 •	Weekends, especially Sunday, generate the highest revenue
+
 •	Mid-day to evening hours show maximum order activity
+
 •	Top categories include Colors, Sweets, and Soft Toys
+
 •	Cities like Imphal, Kavali, and Dibrugarh lead in order volume
+
 ________________________________________
 Business Value
 
