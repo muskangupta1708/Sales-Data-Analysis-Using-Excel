@@ -1,4 +1,4 @@
-# Sales-Data-Analysis-Using-Excel
+# Ferns And Petals(fnp) Sales-Data-Analysis-Using-Excel
 Project Overview
 
 This project features an interactive Sales Analysis Dashboard built in Microsoft Excel to analyze sales performance, customer behavior, and revenue trends. The dashboard transforms raw sales data into actionable insights using Excel’s analytical and visualization capabilities.
