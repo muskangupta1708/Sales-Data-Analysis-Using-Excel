@@ -1,4 +1,4 @@
-# Ferns And Petals(fnp) Sales-Data-Analysis-Using-Excel
+# Ferns N Petals(fnp) Sales-Data-Analysis-Using-Excel
 
 Project Overview
 
